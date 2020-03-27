@@ -1,0 +1,23 @@
+Circuit: * Z:\home\suse\git\AOWF\schematics\simulation\switch-target-voltage.asc
+
+WARNING: Node N006 is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Mar 27 20:45:52 2020
+Total elapsed time: 0.229 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3182
+traniter = 3167
+tranpoints = 1341
+accept = 1274
+rejected = 67
+matrix size = 16
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.27 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.36 KB object code size  0.1/0.2/[0.1]
+
